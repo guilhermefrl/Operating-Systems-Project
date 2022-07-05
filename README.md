@@ -1,4 +1,4 @@
-# Operating-Systems-Project
+# Operating Systems Project
 
 ## Project objectives
 
